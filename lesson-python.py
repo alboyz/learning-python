@@ -7,3 +7,6 @@ tall = 189.8
 print(tall, "is type of", type(tall))
 pria = True
 print(pria, "istype of", type(pria))
+color = ["red", "green", "yellow"]
+print(type(color))
+
