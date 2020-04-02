@@ -1,4 +1,6 @@
 # class
+
+
 class Mahasiswa():
     def __init__(self, input_nama):
         self.nama = input_nama
@@ -17,3 +19,4 @@ print(name.nama)
 name.belajar("python3")
 name.nama = "sueb"
 print(name.nama)
+
